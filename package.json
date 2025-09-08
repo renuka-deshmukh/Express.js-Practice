@@ -1,0 +1,23 @@
+{
+  "name": "express_practice",
+  "version": "1.0.0",
+  "description": "\"# Express.js-Practice\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renuka-deshmukh/Express.js-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renuka-deshmukh/Express.js-Practice/issues"
+  },
+  "homepage": "https://github.com/renuka-deshmukh/Express.js-Practice#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
